@@ -1,0 +1,11 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - absl-py=2.1.0
+  - access=1.1.3
+  - adal=1.2.7
+  - custom-inherit=2.4.1
+  - python=3.8.*
+  - snowflake-snowpark-python=
+  - streamlit=
